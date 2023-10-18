@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I am a credit risk consultant in the banking industry and hold qualifications in the following:
 
-* a BSc in Mathematical Sciences from the University of Nottingham,
-* an MSc in Applied Mathematics from Imperial College London,
-* a PhD in Applied Mathematics and Mathematical Physics from Imperial College London,
-* a masters level Certificate of Quantitative Finance (CQF) from Fitch Learning. 
+* BSc in Mathematical Sciences, The University of Nottingham, 2015-2018,
+* MSc in Applied Mathematics, Imperial College London, 2018-2019,
+* PhD in Applied Mathematics and Mathematical Physics, Imperial College London, 2019-2023,
+* Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023.
