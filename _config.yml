@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Jack Davies"
+title                    : "Dr. Jack Davies"
 title_separator          : "-"
 name                     : &name "Jack Davies"
 description              : &description "Applied Mathematics"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "Matthew.Crowe2 ~AT~ newcastle.ac.uk"
+  email            : "m.jdav97@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jack-davies-phd/"
   orcid            : 
   pinterest        :
   soundcloud       :
