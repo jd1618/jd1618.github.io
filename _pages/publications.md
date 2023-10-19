@@ -22,7 +22,7 @@ author_profile: true
 
 * Davies, J., G. G. Sutyrin, M. N. Crowe, and P. S. Berloff, 2023, Deformation and destruction of north-eastward drifting dipoles, Phys. Fluids.
 
-* Davies, J., G. G. Sutyrin, and P. S. Berloff, 2023, On the spontaneous symmetry breaking of eastward propagating dipoles, Phys. Fluids, 35, 041707.
+* Davies, J., G. G. Sutyrin, and P. S. Berloff, 2023, On the spontaneous symmetry breaking of eastward propagating dipoles, Phys. Fluids, 35, 041707 [Accepted version](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2023_1.pdf).
 
 * Davies, J., H. Khatri, and P. Berloff, 2021, Linear stability analysis for flows over sinusoidal bottom topography, J. Fluid. Mech., 911, A33 [Accepted version](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2021.pdf]).
 
