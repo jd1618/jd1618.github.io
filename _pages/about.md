@@ -21,17 +21,9 @@ I am currently a graduate credit risk consultant in the banking industry.
   - Dissertation was graded 86%,
   
 * PhD in Applied Mathematics and Mathematical Physics, Imperial College London, 2019-2023,
-  - Contributed geophysical fluid dynamics publications in prestigious academic journals,
-  - Obtained research experience and familiarity with programming languages such as MATLAB, Python, Fortran and C++,
+  - Contributed publications to the field of geophysical fluid dynamics in prestigious academic journals,
+  - Obtained strong research experience and familiarity with programming languages such as MATLAB, Python, Fortran and C++,
   
 * Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023:
   - Obtained an average of 82% over the three exam elements,
-  - 
-  
-
-# Experience:
-
-* Actuarial Intern, First Actuarial, June-July 2022:
-  -
-
-* 
+  - Acquired knowledge in topics such as stochastic calculus, option pricing, portfolio management, interest rate and volatility modelling, monte carlo simulation, supervised and unsupervised machine learning, calibration and credit derivatives.
