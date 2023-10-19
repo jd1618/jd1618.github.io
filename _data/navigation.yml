@@ -1,19 +1,13 @@
-# main links links
+# main links 
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Tutorials"
-    url: /tutorials/    
+  - title: "Miscellaneous Maths"
+    url: /miscellaneous-maths
 
-  - title: "Blog Posts"
-    url: /blog-posts/
-    
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Quant 101"
+    url: /quant-101/    
+
+  - title: "Programming Hacks"
+    url: /programming-hacks/
