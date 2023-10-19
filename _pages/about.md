@@ -24,7 +24,9 @@ I am currently a graduate credit risk consultant in the banking industry.
   - Contributed geophysical fluid dynamics publications in prestigious academic journals,
   - Obtained research experience and familiarity with programming languages such as MATLAB, Python, Fortran and C++,
   
-* Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023.
+* Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023:
+  - Obtained an average of 82% over the three exam elements,
+  - 
   
 
 # Experience:
