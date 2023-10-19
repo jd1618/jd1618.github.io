@@ -24,7 +24,7 @@ author_profile: true
 
 * Davies, J., G. G. Sutyrin, and P. S. Berloff, 2023, On the spontaneous symmetry breaking of eastward propagating dipoles, Phys. Fluids, 35, 041707.
 
-* Davies, J., H. Khatri, and P. Berloff, 2021, Linear stability analysis for flows over sinusoidal bottom topography, J. Fluid. Mech., 911, A33.
+* Davies, J., H. Khatri, and P. Berloff, 2021, Linear stability analysis for flows over sinusoidal bottom topography, J. Fluid. Mech., 911, A33 [Accepted version](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2021.pdf]).
 
 # PhD Thesis
 
