@@ -12,9 +12,24 @@ I am currently a graduate credit risk consultant in the banking industry.
 
 # Education:
 
-* BSc in Mathematical Sciences, The University of Nottingham, 2015-2018,
-* MSc in Applied Mathematics, Imperial College London, 2018-2019,
+* BSc in Mathematical Sciences, The University of Nottingham, 2015-2018:
+- Achieved first class honours in every year,
+- Final year dissertation was awarded 79%,
+  
+* MSc in Applied Mathematics, Imperial College London, 2018-2019:
+- Awarded a distinction, 
+- Dissertation was graded 86%,
+  
 * PhD in Applied Mathematics and Mathematical Physics, Imperial College London, 2019-2023,
+- Contributed geophysical fluid dynamics publications in prestigious academic journals,
+- Obtained research experience and familiarity with programming languages such as MATLAB, Python, Fortran and C++,
+  
 * Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023.
+  
 
 # Experience:
+
+* Actuarial Intern, First Actuarial, June-July 2022:
+  -
+
+* 
