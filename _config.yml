@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr. Jack Davies"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Jack Davies"
 description              : &description "Applied Mathematics"
