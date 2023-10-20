@@ -28,7 +28,7 @@ author_profile: true
 
 # PhD Thesis
 
-* Davies. J., 2023, Linear stability and numerical analysis of dipolar vortices and topographic flows.
+* Davies. J., 2023, Linear stability and numerical analysis of dipolar vortices and topographic flows [(Link)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_J_2023_PhD_Thesis.pdf).
 
 # Third Year Dissertation
 
