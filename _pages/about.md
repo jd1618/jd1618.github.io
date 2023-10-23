@@ -24,5 +24,5 @@ I am currently a credit risk consultant in the banking industry with a passion f
   - Published in prestigious academic journals such as JFM and PoF,
   - Developed strong programming skills in MATLAB, Python, Fortran and C++,
   
-* Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023:
+* Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023:
   - Completed with distinction
