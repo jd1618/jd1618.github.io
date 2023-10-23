@@ -25,4 +25,4 @@ I am currently a graduate credit risk consultant in the banking industry with a 
   - Developed strong programming skills in MATLAB, Python, Fortran and C++,
   
 * Certificate of Quantitative Finance (CQF), Fitch Learning, 2022-2023:
-  - Obtained an average of 82% over the three exam elements,
+  - Completed with distinction
