@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate credit risk consultant in the banking industry with a passion for the application of mathematics and programming.
+I am currently a credit risk consultant in the banking industry with a passion for mathematics and programming.
 
 # Education:
 
