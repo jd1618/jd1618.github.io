@@ -21,7 +21,9 @@ I am a credit risk consultant in the banking industry with a strong passion for 
   - Macroeconomic variable selection
   - Macro scalar calculations
   - Monitoring signature/emergence curves
-* Balance Sheet Modelling
+* Balance Sheet Modelling:
+  - B/S: asset, liabilities and equity forecasting
+  - Forecasting P&L and RWAs
 * ICAAP Model Development:
   - Idiosyncratic, market, combined stress scenarios
   - Reverse stress testing
@@ -39,10 +41,14 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * Received training in investment and pension schemes
 * Excel proficiency for cleaning, manipulating, and visualizing large datasets
 * Transfer values calculations:
-- Accounting for late retirement
-- Annuity adjustment
-- GMP equalization
-* Engaged in client verification, factor review, actuarial reporting, sensitivity analysis
+  - Accounting for late retirement
+  - Annuity adjustment
+  - GMP equalization
+* Engaged with:
+  - client verification
+  - factor review
+  - actuarial reporting
+  - sensitivity analysis
 * Presented "Investment Insight for Pension Schemes" to partners and founders
 
 # Education
@@ -67,14 +73,14 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * Completed with Distinction (final exam mark of 81%)
 * Overall average of 79%
 * Developed knowledge in areas such as:
-- stochastic calculus
-- martingales
-- portfolio optimization
-- risk management
-- option pricing models
-- Monte Carlo simulation
-- volatility arbitrage
-- supervised learning
-- unsupervised learning
-- reinforcement learning
-- interest rate derivatives
+  - stochastic calculus
+  - martingales
+  - portfolio optimization
+  - risk management
+  - option pricing models
+  - Monte Carlo simulation
+  - volatility arbitrage
+  - supervised learning
+  - unsupervised learning
+  - reinforcement learning
+  - interest rate derivatives
