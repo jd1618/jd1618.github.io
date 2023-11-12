@@ -34,7 +34,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 ## _Actuary Intern, First Actuarial, June-July 2022_:
 
 * Received training on: asset classes, investment strategies and pension schemes
-* Excel proficiency: cleaning, manipulating, and visualising data
+* Gained Excel proficiency in: cleaning, manipulating, and visualising data
 * Transfer values calculations, accounting for: late retirement, annuity adjustment and GMP equalization
 * Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis
 * Presented "Investment Insight for Pension Schemes" to partners and founders
