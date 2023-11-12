@@ -32,15 +32,15 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
-* Published in a special issue of the journal of Physics of Fluids (PoF)
+* _Published in a special issue of the journal of Physics of Fluids (PoF)_
 
 ## _Actuary Intern, First Actuarial, June-July 2022_:
 
-* Received training on: asset classes, investment strategies and pension schemes
-* Gained proficiency in Excel: cleaning, manipulating, and visualising data
-* Performed transfer value calculations, incorporatin: late retirement factors, annuity adjustment and GMP equalization
-* Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis
-* Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm
+* _Received training on: asset classes, investment strategies and pension schemes_
+* _Gained proficiency in Excel: cleaning, manipulating, and visualising data_
+* _Performed transfer value calculations, incorporatin: late retirement factors, annuity adjustment and GMP equalization_
+* _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
+* _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
 # Education
 
