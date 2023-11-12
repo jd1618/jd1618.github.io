@@ -31,29 +31,29 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 * ## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
+  * Published in a special issue of PoF
+
 * ## _Actuary Intern, First Actuarial, June-July 2022_:
 
 * Received training on: asset classes, investment strategies and pension schemes
-* Gained Excel proficiency in: cleaning, manipulating, and visualising data
-* Transfer values calculations, accounting for: late retirement, annuity adjustment and GMP equalization
+* Gained proficiency in Excel: cleaning, manipulating, and visualising data
+* Performed transfer value calculations, incorporatin: late retirement factors, annuity adjustment and GMP equalization
 * Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis
-* Presented "Investment Insight for Pension Schemes" to partners and founders
+* Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm
 
 # Education
 
 ## _BSc in Mathematical Sciences, The University of Nottingham, 2015-2018_:
 
-* Completed with First Class Honours
-* Final year dissertation awarded 79%
+* Completed with First Class Honours, with my final year dissertation awarded 79%
 
 ## _MSc in Applied Mathematics, Imperial College London, 2018-2019_:
 
-* Completed with Distinction
-* Master's dissertation awarded 86%
+* Completed with Distinction, with my master's dissertation awarded 86%
 
 ## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
-* Published in prestigious journals (JFM and PoF)
+* Published in prestigious academic journals, including JFM and PoF
 * Developed strong programming skills in MATLAB and Fortran
 
 ## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
