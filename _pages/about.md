@@ -22,17 +22,17 @@ I am a credit risk consultant in the banking industry with a strong passion for 
   * _Macro scalar calculations_
   * _Monitoring signature/emergence curves_
 2. **Balance Sheet Modelling**:
-  * B/S: asset, liabilities and equity forecasting
-  * Forecasting P&L and RWAs
+  * _B/S: asset, liabilities and equity forecasting_
+  * _Forecasting P&L, NPAs, provisions and RWAs_
 3. **ICAAP Model Development**:
-  * Idiosyncratic, market, combined stress scenarios
-  * Reverse stress testing
-  * Valuation
+  * _Idiosyncratic, market, combined stress scenarios_
+  * _Reverse stress testing_
+  * _Valuation_
 4. **Python Projects**:
-  * Data analysis and visualization
-  * Data quality checks
-  * Unit testing
-  * Object-oriented programming
+  * _Data analysis and visualisation_
+  * _Data quality checks_
+  * _Unit testing_
+  * _Object-oriented programming_
 
 ## _Postdoctoral Researcher, Imperial College London, July-August 2023_
 
