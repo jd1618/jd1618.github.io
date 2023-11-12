@@ -14,7 +14,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 # Professional Experience
 
-* * Credit Risk Consultant, TNP, 2023-Present:
+## _Credit Risk Consultant, TNP, 2023-Present:
 
 * IFRS 9 Model Development:
 ** PD/ODR forecasting
