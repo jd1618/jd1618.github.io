@@ -10,6 +10,21 @@ redirect_from:
 
 I am currently a credit risk consultant in the banking industry with a passion for mathematics and programming.
 
+# Professional Experience:
+
+* Credit Risk Consultant, TNP, 2023-Present:
+  - IFRS 9 model development: PD/ODR forecasting, macroeconomic variable selection, macro scalar calculations, monitoring signature/emergence curves
+  - Balance sheet modelling: 
+  - ICAAP model development: idiosyncratic, market, combined stress scenarios, reverse stress testing, valuation
+  - Python projects: data analysis and visualisation, data quality checks, unit testing, object oriented programming
+* Postdoctoral Researcher, Imperial College London, July-August 2023
+* Actuary Intern, First Actuarial, June-July 2022:
+  - Received training in various topics related to investment and pension schemes
+  - Extensively used excel to clean, manipulate and visualise large data sets
+  - Transfer values - accounting for late retirement, annuity adjustment, GMP equalisation
+  - Engaged in tasks such as client verification, factor review, actuarial reporting, sensitivity analysis
+  - Present to partners and founders of the company on 'Investment Insight for Pension Schemes'
+
 # Education:
 
 * BSc in Mathematical Sciences, The University of Nottingham, 2015-2018:
