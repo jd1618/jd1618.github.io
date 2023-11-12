@@ -16,11 +16,11 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## _Credit Risk Consultant, TNP, September 2023-Present_:
 
-* IFRS 9 Model Development:
-    - PD/ODR forecasting
-    - Macroeconomic variable selection
-    - Macro scalar calculations
-    - Monitoring signature/emergence curves
+1. IFRS 9 Model Development:
+  * PD/ODR forecasting
+  * Macroeconomic variable selection
+  * Macro scalar calculations
+  * Monitoring signature/emergence curves
 * Balance Sheet Modelling:
   - B/S: asset, liabilities and equity forecasting
   - Forecasting P&L and RWAs
