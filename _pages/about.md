@@ -29,11 +29,11 @@ I am a credit risk consultant in the banking industry with a strong passion for 
   * _Data analysis, visualisation and data quality checks_
   * _OOP and unit testing_
 
-* ## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
+## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
   * Published in a special issue of PoF
 
-* ## _Actuary Intern, First Actuarial, June-July 2022_:
+## _Actuary Intern, First Actuarial, June-July 2022_:
 
 * Received training on: asset classes, investment strategies and pension schemes
 * Gained proficiency in Excel: cleaning, manipulating, and visualising data
