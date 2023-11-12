@@ -20,7 +20,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 1. **IFRS 9 Model Development**:
   * _PD/ODR forecasting and monitoring signature/emergence curves_
   * _Macroeconomic variable selection and macro scalar calculations_
-2. **Balance Sheet Modelling**:
+2. **Balance Sheet Management**:
   * _B/S: asset, liabilities and equity forecasting_
   * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
 4. **ICAAP Model Development**:
