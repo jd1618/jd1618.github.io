@@ -17,20 +17,20 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 ## _Credit Risk Consultant, TNP, September 2023-Present_:
 
 * IFRS 9 Model Development:
-** PD/ODR forecasting
-  Macroeconomic variable selection
-- Macro scalar calculations
-- Monitoring signature/emergence curves
+  - PD/ODR forecasting
+  - Macroeconomic variable selection
+  - Macro scalar calculations
+  - Monitoring signature/emergence curves
 * Balance Sheet Modelling
 * ICAAP Model Development:
-- Idiosyncratic, market, combined stress scenarios
-- Reverse stress testing
-- Valuation
+  - Idiosyncratic, market, combined stress scenarios
+  - Reverse stress testing
+  - Valuation
 * Python Projects:
-- Data analysis and visualization
-- Data quality checks
-- Unit testing
-- Object-oriented programming
+  - Data analysis and visualization
+  - Data quality checks
+  - Unit testing
+  - Object-oriented programming
 
 ## _Postdoctoral Researcher, Imperial College London, July-August 2023_
 
