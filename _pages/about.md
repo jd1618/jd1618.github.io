@@ -12,7 +12,9 @@ About Me
 
 I am a credit risk consultant in the banking industry with a strong passion for mathematics and programming.
 
-# Professional Experience
+<p align="center">
+  # Professional Experience
+</p>
 
 ## _Credit Risk Consultant, TNP, September 2023-Present_:
 
