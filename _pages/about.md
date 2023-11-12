@@ -20,8 +20,8 @@ I am a credit risk consultant in the banking industry with a strong passion for 
     * _PD/ODR forecasting and monitoring signature/emergence curves_
     * _Macroeconomic variable selection and macro scalar calculations_
 2. **Balance Sheet Modelling**:
-     * _B/S: asset, liabilities and equity forecasting_
-     * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
+    * _B/S: asset, liabilities and equity forecasting_
+    * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
 4. **ICAAP Model Development**:
     * _Idiosyncratic, market, combined stress scenarios_
     * _Reverse stress testing and model valuation_
