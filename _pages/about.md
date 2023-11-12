@@ -21,31 +21,22 @@ I am a credit risk consultant in the banking industry with a strong passion for 
   * _Macroeconomic variable selection and macro scalar calculations_
 2. **Balance Sheet Modelling**:
   * _B/S: asset, liabilities and equity forecasting_
-  * _Forecasting P&L, NPAs, provisions and RWAs_
+  * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
 3. **ICAAP Model Development**:
   * _Idiosyncratic, market, combined stress scenarios_
   * _Reverse stress testing and model valuation_
 4. **Python Projects**:
-  * _Data analysis and visualisation_
-  * _Data quality checks_
-  * _Unit testing_
-  * _Object-oriented programming_
+  * _Data analysis, visualisation and data quality checks_
+  * _OOP and unit testing_
 
-## _Postdoctoral Researcher, Imperial College London, July-August 2023_
+## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
 ## _Actuary Intern, First Actuarial, June-July 2022_:
 
-* Received training in investment and pension schemes
-* Excel proficiency for cleaning, manipulating, and visualizing large datasets
-* Transfer values calculations:
-  - Accounting for late retirement
-  - Annuity adjustment
-  - GMP equalization
-* Engaged with:
-  - client verification
-  - factor review
-  - actuarial reporting
-  - sensitivity analysis
+* Received training on: asset classes, investment strategies and pension schemes
+* Excel proficiency: cleaning, manipulating, and visualising data
+* Transfer values calculations, accounting for: late retirement, annuity adjustment and GMP equalization
+* Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis
 * Presented "Investment Insight for Pension Schemes" to partners and founders
 
 # Education
