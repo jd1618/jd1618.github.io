@@ -14,7 +14,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 # Professional Experience
 
-## _Credit Risk Consultant, TNP, 2023-Present_:
+## _Credit Risk Consultant, TNP, September 2023-Present_:
 
 * IFRS 9 Model Development:
 ** PD/ODR forecasting
@@ -32,9 +32,9 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 - Unit testing
 - Object-oriented programming
 
-## Postdoctoral Researcher, Imperial College London, July-August 2023
+## _Postdoctoral Researcher, Imperial College London, July-August 2023_
 
-## Actuary Intern, First Actuarial, June-July 2022:
+## _Actuary Intern, First Actuarial, June-July 2022_:
 
 * Received training in investment and pension schemes
 * Excel proficiency for cleaning, manipulating, and visualizing large datasets
@@ -47,22 +47,22 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 # Education
 
-## BSc in Mathematical Sciences, The University of Nottingham, 2015-2018:
+## _BSc in Mathematical Sciences, The University of Nottingham, 2015-2018_:
 
 * Completed with First Class Honours
 * Final year dissertation awarded 79%
 
-## MSc in Applied Mathematics, Imperial College London, 2018-2019:
+## _MSc in Applied Mathematics, Imperial College London, 2018-2019_:
 
 * Completed with Distinction
 * Master's dissertation awarded 86%
 
-## PhD in Mathematical Physics, Imperial College London, 2019-2023:
+## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
 * Published in prestigious journals (JFM and PoF, including a special collection)
 * Developed strong programming skills in MATLAB, Python, Fortran, and C++
 
-## Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023:
+## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
 * Completed with Distinction (final exam mark of 81%)
 * Overall average of 79%
