@@ -32,7 +32,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
-* Published in a special issue of PoF
+* Published in a special issue of the journal of Physics of Fluids (PoF)
 
 ## _Actuary Intern, First Actuarial, June-July 2022_:
 
