@@ -33,7 +33,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 ## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
 
 * _Published in a special issue of the journal of Physics of Fluids (PoF)_
-* _Characterised the instability of quasi-geostrophic dipole steady states by a growing critical Davies mode (D-mode)_
+* _Characterised the instability of quasi-geostrophic dipole steady states by a growing critical Davies mode_
 
 ## _Actuary Intern, First Actuarial, June-July 2022_:
 
