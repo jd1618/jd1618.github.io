@@ -13,9 +13,9 @@ About Me
 I am a credit risk consultant in the banking industry with a strong passion for mathematics and programming.
 
 
-# _Professional Experience_
+# Professional Experience
 
-## _Credit Risk Consultant, TNP, September 2023-Present_:
+## Credit Risk Consultant, TNP, September 2023-Present:
 
 1. **IFRS 9 Model Development**:
   * _PD/ODR forecasting and monitoring signature/emergence curves_
@@ -30,12 +30,12 @@ I am a credit risk consultant in the banking industry with a strong passion for 
   * _Data analysis, visualisation and data quality checks_
   * _OOP and unit testing_
 
-## _Postdoctoral Researcher, Imperial College London, July-August 2023:_
+## Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 * _Published in a special issue of the journal of Physics of Fluids_
 * _Characterised the instability of quasi-geostrophic dipole steady states by a critical Davies mode_
 
-## _Actuary Intern, First Actuarial, June-July 2022_:
+## Actuary Intern, First Actuarial, June-July 2022:
 
 * _Received training on: asset classes, investment strategies and pension schemes_
 * _Gained proficiency in Excel: cleaning, manipulating, and visualising data_
@@ -43,13 +43,13 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
-# _Education_
+# Education
 
-## _BSc in Mathematical Sciences, The University of Nottingham, 2015-2018_:
+## BSc in Mathematical Sciences, The University of Nottingham, 2015-2018:
 
 * _Completed with First Class Honours, with my final year dissertation awarded 79%_
 
-## _MSc in Applied Mathematics, Imperial College London, 2018-2019_:
+## MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
 * _Completed with Distinction, with my master's dissertation awarded 86%_
 
