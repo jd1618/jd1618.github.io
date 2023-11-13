@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+## About Me
 
-I am a credit risk consultant in the banking industry with a strong passion for mathematics and programming.
+Credit Risk Consultant at True North Partners LLP | MSc in Applied Mathematics (Distinction) | PhD in Mathematical Physics | CQF Alumnus (Distinction):
+
+I have a strong passion for mathematics and programming, with a keen interest in advancing my knowledge and expertise in the application of machine learning and analytical methodologies to the field of credit risk.
 
 
-# Professional Experience
+## Professional Experience
 
-## Credit Risk Consultant, TNP, September 2023-Present:
+### Credit Risk Consultant, TNP, September 2023-Present:
 
 **IFRS 9 Model Development**:
 * _PD/ODR forecasting and monitoring signature/emergence curves_
@@ -33,7 +35,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Data analysis, visualisation and data quality checks_
 * _OOP and unit testing_
 
-## Postdoctoral Researcher, Imperial College London, July-August 2023:
+### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 **Contributions**:
 * _Published in a special issue of the journal of Physics of Fluids_
@@ -44,7 +46,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Verified the linear instability of eastward dipoles by obtaining solutions to the complete eigenproblem_
 * _Formulated the nonlinear destruction mechanism and related energetics of eastward dipoles_
 
-## Actuary Intern, First Actuarial, June-July 2022:
+### Actuary Intern, First Actuarial, June-July 2022:
 
 **Pensions**:
 * _Was introduced to defined contribution and defined benefit schemes_
@@ -56,9 +58,9 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Obtained knowledge of bonds, commodities, derivatives, equities and there dynamics in difference economic scenarios_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
-# Education
+## Education
 
-## BSc in Mathematics, The University of Nottingham, 2015-2018:
+### BSc in Mathematics, The University of Nottingham, 2015-2018:
 
 **Achievements**: 
 * _Completed with First Class Honours, with my final year dissertation awarded 79%_
@@ -66,7 +68,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 **Final Year**:
 * _My studies included: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
 
-## MSc in Applied Mathematics, Imperial College London, 2018-2019:
+### MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
 **Achievements**:
 * _Completed with Distinction, with my dissertation awarded 86%_
@@ -74,7 +76,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 **Masters Year**:
 * _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs and PDEs_
 
-## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
+### _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
 **Contributions**:
 * _Published in prestigious academic journals, including the Journal of Fluid Mechanics and Physics of Fluids_
@@ -83,7 +85,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 **Development**:
 * _Developed strong programming skills in languages such as MATLAB and Fortran_
 
-## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
+### _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
 **Acheievements**:
 * _Completed with Distinction (final exam mark of 81%), with an overall average of 79%_
