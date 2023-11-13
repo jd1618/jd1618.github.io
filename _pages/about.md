@@ -60,17 +60,5 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
-* Completed with Distinction (final exam mark of 81%)
-* Overall average of 79%
-* Developed knowledge in areas such as:
-  - stochastic calculus
-  - martingales
-  - portfolio optimization
-  - risk management
-  - option pricing models
-  - Monte Carlo simulation
-  - volatility arbitrage
-  - supervised learning
-  - unsupervised learning
-  - reinforcement learning
-  - interest rate derivatives
+* _Completed with Distinction (final exam mark of 81%), with an overall average of 79%_
+* _Developed knowledge in areas such as: stochastic calculus, martingales, portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage, supervised learning, unsupervised learning, reinforcement learning and interest rate derivatives
