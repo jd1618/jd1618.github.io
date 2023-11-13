@@ -37,15 +37,20 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Submitted a paper to the special issue Physica D: Nonlinear Phenomena_
 
 2. **Reasearch Summary**:
-* _Characterised the instability of quasi-geostrophic dipole steady states by a critical Davies mode_
-* _Verified the linear instability by solving the full eigenproblem using a derived finite-difference approach
+* _Characterised the instability of quasi-geostrophic eastward dipole steady states by a critical Davies mode_
+* _Verified the linear instability of eastward dipoles by obtaining solutions to the complete eigenproblem_
+* _Formulated the nonlinear destruction mechanism and related energetics of eastward dipoles_
 
 ## Actuary Intern, First Actuarial, June-July 2022:
 
-* _Received training on: asset classes, investment strategies and pension schemes_
+1. **Pensions**:
+* _Was introduced to defined contribution and defined benefit schemes_
 * _Gained proficiency in Excel: cleaning, manipulating, and visualising data_
-* _Performed transfer value calculations, incorporatin: late retirement factors, annuity adjustment and GMP equalization_
+* _Performed transfer value calculations, incorporating: late retirement factors, annuity adjustment and GMP equalization_
 * _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
+
+2. **Investments**:
+* _Was introduced to different asset classes (e.g., bonds, commodities, derivatives, equities) and there dynamics in difference economic scenarios_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
 # Education
