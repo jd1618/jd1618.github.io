@@ -28,14 +28,14 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 **ICAAP Model Development**:
 * _Idiosyncratic, market, combined stress scenarios_
 * _Reverse stress testing and model valuation_
-* 
+  
 **Python Projects**:
 * _Data analysis, visualisation and data quality checks_
 * _OOP and unit testing_
 
 ## Postdoctoral Researcher, Imperial College London, July-August 2023:
 
-**Achievements**:
+**Contributions**:
 * _Published in a special issue of the journal of Physics of Fluids_
 * _Submitted a paper to the special issue Physica D: Nonlinear Phenomena_
 
@@ -63,15 +63,24 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 **Achievements**: 
 * _Completed with First Class Honours, with my final year dissertation awarded 79%_
 
+**Final Year**:
+* _My studies included: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
+
 ## MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
 **Achievements**:
-* _Completed with Distinction, with my master's dissertation awarded 86%_
+* _Completed with Distinction, with my dissertation awarded 86%_
+
+**Masters Year**:
+* _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs and PDEs_
 
 ## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
-**Achevements**:
+**Contributions**:
 * _Published in prestigious academic journals, including the Journal of Fluid Mechanics and Physics of Fluids_
+* _Was a graduate teaching assistant across all year groups, including the final year modules in 'Numerical solution of ordinary differential equations' and 'classical dynamics'_
+
+**Development**:
 * _Developed strong programming skills in languages such as MATLAB and Fortran_
 
 ## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
