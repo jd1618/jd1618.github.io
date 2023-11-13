@@ -4,19 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!-- 
-[link example](http://mncrowe.github.io/files/test.pdf)
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 * _Davies, J., I. Shevchenko, P. Berloff, G. Sutyrin, 2023, Linear instability and weakly nonlinear effects in eastward dipoles (submitted to Physica D, Special Issue: Nonlinear Phenomena in Fluid Dynamics)_.
 
