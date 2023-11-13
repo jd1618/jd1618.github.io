@@ -28,8 +28,8 @@ author_profile: true
 
 # Projects
 
-* Davies. J., 2023, Linear stability and numerical analysis of dipolar vortices and topographic flows [(PhD Thesis)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_J_2023_PhD_Thesis.pdf).
+* _Davies. J., 2023, Linear stability and numerical analysis of dipolar vortices and topographic flows [(PhD Thesis)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_J_2023_PhD_Thesis.pdf)_.
 
-* Davies. J., 2019, Asymptotic Theory and Linear Stability in the Presence of Sinusoidal Bottom Topography [(Masters Thesis)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Main.pdf).
+* _Davies. J., 2019, Asymptotic Theory and Linear Stability in the Presence of Sinusoidal Bottom Topography [(Masters Thesis)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Main.pdf)_.
 
-* Davies. J., 2018, Tipping Points [(Third Year Dissertation)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies-Jack-G14PJS-Project-Report-Tipping-Points.pdf). 
+* _Davies. J., 2018, Tipping Points [(Third Year Dissertation)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies-Jack-G14PJS-Project-Report-Tipping-Points.pdf)_. 
