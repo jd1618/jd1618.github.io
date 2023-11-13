@@ -26,7 +26,7 @@ author_profile: true
 
 * _Davies, J., H. Khatri, and P. Berloff, 2021, Linear stability analysis for flows over sinusoidal bottom topography, J. Fluid. Mech., 911, A33 [(Research Article)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2021.pdf])_.
 
-# Projects
+## Projects
 
 * _Davies. J., 2023, Linear stability and numerical analysis of dipolar vortices and topographic flows [(PhD Thesis)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_J_2023_PhD_Thesis.pdf)_.
 
