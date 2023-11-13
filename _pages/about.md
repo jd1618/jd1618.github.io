@@ -13,7 +13,7 @@ About Me
 I am a credit risk consultant in the banking industry with a strong passion for mathematics and programming.
 
 
-# Professional Experience
+# _Professional Experience_
 
 ## _Credit Risk Consultant, TNP, September 2023-Present_:
 
@@ -43,7 +43,7 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
-# Education
+# _Education_
 
 ## _BSc in Mathematical Sciences, The University of Nottingham, 2015-2018_:
 
