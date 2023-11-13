@@ -50,25 +50,33 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
 
 2. **Investments**:
-* _Was introduced to different asset classes (e.g., bonds, commodities, derivatives, equities) and there dynamics in difference economic scenarios_
+* _Obtained knowledge of bonds, commodities, derivatives, equities and there dynamics in difference economic scenarios_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
 # Education
 
 ## BSc in Mathematics, The University of Nottingham, 2015-2018:
 
+1. **Achievements**: 
 * _Completed with First Class Honours, with my final year dissertation awarded 79%_
 
 ## MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
+1. **Achievements**:
 * _Completed with Distinction, with my master's dissertation awarded 86%_
 
 ## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
+1. **Achevements**:
 * _Published in prestigious academic journals, including the Journal of Fluid Mechanics and Physics of Fluids_
 * _Developed strong programming skills in languages such as MATLAB and Fortran_
 
 ## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
+1. **Acheievements**:
 * _Completed with Distinction (final exam mark of 81%), with an overall average of 79%_
+
+2. **Quantitative Finance**:
 * _Developed knowledge in areas such as: stochastic calculus, martingales, portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage, supervised learning, unsupervised learning, reinforcement learning and interest rate derivatives_
+
+3. **Machine Learning**:
