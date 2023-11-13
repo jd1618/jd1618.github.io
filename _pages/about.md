@@ -32,9 +32,13 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## Postdoctoral Researcher, Imperial College London, July-August 2023:
 
+1. **Achievements**:
 * _Published in a special issue of the journal of Physics of Fluids_
 * _Submitted a paper to the special issue Physica D: Nonlinear Phenomena_
+
+2. **Reasearch Summary**:
 * _Characterised the instability of quasi-geostrophic dipole steady states by a critical Davies mode_
+* _Verified the linear instability by solving the full eigenproblem using a derived finite-difference approach
 
 ## Actuary Intern, First Actuarial, June-July 2022:
 
