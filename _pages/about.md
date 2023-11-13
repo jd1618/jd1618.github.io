@@ -47,16 +47,16 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 
 ## _BSc in Mathematical Sciences, The University of Nottingham, 2015-2018_:
 
-* Completed with First Class Honours, with my final year dissertation awarded 79%
+* _Completed with First Class Honours, with my final year dissertation awarded 79%_
 
 ## _MSc in Applied Mathematics, Imperial College London, 2018-2019_:
 
-* Completed with Distinction, with my master's dissertation awarded 86%
+* _Completed with Distinction, with my master's dissertation awarded 86%_
 
 ## _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
-* Published in prestigious academic journals, including JFM and PoF
-* Developed strong programming skills in MATLAB and Fortran
+* _Published in prestigious academic journals, including the Journal of Fluid Mechanics and Physics of Fluids_
+* _Developed strong programming skills in languages such as MATLAB and Fortran_
 
 ## _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
