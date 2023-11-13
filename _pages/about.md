@@ -89,6 +89,9 @@ I am a credit risk consultant in the banking industry with a strong passion for 
 * _Completed with Distinction (final exam mark of 81%), with an overall average of 79%_
 
 **Quantitative Finance**:
-* _Developed knowledge in areas such as: stochastic calculus, martingales, portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage, supervised learning, unsupervised learning, reinforcement learning and interest rate derivatives_
+* _Mathematics: stochastic calculus, martingales, solution techniques to PDEs and numerical linear algebra_
+* _Financial engineering: portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage and interest rate derivatives_
 
 **Machine Learning**:
+* _Supervised learning: K-nearest neighbours, support vector machines, naive Bayes classifiers, decision trees, regression methods_
+* _Unsupervised learning: K-means clustering and neural networks_ 
