@@ -10,7 +10,7 @@ redirect_from:
 
 Credit Risk Consultant at True North Partners LLP | MSc in Applied Mathematics (Distinction) | PhD in Mathematical Physics | CQF Alumnus (Distinction)
 
-I have a strong passion for mathematics and programming, with a keen interest in advancing my knowledge and expertise in the application of machine learning and analytical methodologies to the field of credit risk
+I have a strong passion for mathematics and programming, with a keen interest in advancing my knowledge and expertise in the application of machine learning and analytical methodologies to the field of credit risk.
 
 
 ## Professional Experience
@@ -26,23 +26,23 @@ Balance Sheet Management:
 * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
   
 ICAAP Model Development:
-* _Idiosyncratic, market, combined stress scenarios_
+* _Idiosyncratic, market and combined stress scenarios_
 * _Reverse stress testing and model valuation_
   
 Python Projects:
 * _Data analysis, visualisation and data quality checks_
-* _OOP and unit testing_
+* _OOP, debugging and unit testing_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 Contributions:
 * _Published in a special issue of the journal of Physics of Fluids_
-* _Submitted a paper to the special issue Physica D: Nonlinear Phenomena_
+* _Submitted a paper to the Special Issue Physica D: Nonlinear Phenomena_
 
 Reasearch Summary:
 * _Characterised the instability of quasi-geostrophic eastward dipole steady states by a critical Davies mode_
 * _Verified the linear instability of eastward dipoles by obtaining solutions to the complete eigenproblem_
-* _Formulated the nonlinear destruction mechanism and related energetics of eastward dipoles_
+* _Formulated the nonlinear destruction mechanism and associated energetics of eastward dipoles_
 
 ### Actuary Intern, First Actuarial, June-July 2022:
 
@@ -53,7 +53,7 @@ Pensions:
 * _Engaged with: client verification, factor review, actuarial reporting and sensitivity analysis_
 
 Investments:
-* _Obtained knowledge of bonds, commodities, derivatives, equities and there dynamics in difference economic scenarios_
+* _Obtained knowledge of bonds, commodities, derivatives, equities, swaps and how they behave in different economic scenarios_
 * _Presented a talk on "Investment Insight for Pension Schemes" to founders and partners of the firm_
 
 ## Education
@@ -61,7 +61,7 @@ Investments:
 ### BSc in Mathematics, The University of Nottingham, 2015-2018:
 
 Achievements: 
-* _Completed with First Class Honours, with my final year dissertation awarded 79%_
+* _Completed with First Class Honours - final year dissertation awarded 79%_
 
 Final Year:
 * _My studies included: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
@@ -69,7 +69,7 @@ Final Year:
 ### MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
 Achievements:
-* _Completed with Distinction, with my dissertation awarded 86%_
+* _Completed with Distinction - dissertation awarded 86%_
 
 Masters Year:
 * _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs and PDEs_
@@ -81,12 +81,12 @@ Contributions:
 * _Was a graduate teaching assistant across all year groups, including the final year modules in 'Numerical solution of ordinary differential equations' and 'classical dynamics'_
 
 Development:
-* _Developed strong programming skills in languages such as MATLAB and Fortran_
+* _Obtained strong programming skills in languages such as MATLAB and Fortran_
 
 ### _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
 Acheievements:
-* _Completed with Distinction (final exam mark of 81%), with an overall average of 79%_
+* _Completed with Distinction (final exam mark of 81%) - overall average of 79%_
 
 Quantitative Finance:
 * _Mathematics: stochastic calculus, martingales, solution techniques to PDEs and numerical linear algebra_
