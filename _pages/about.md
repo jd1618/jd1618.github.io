@@ -85,7 +85,7 @@ Development:
 
 ### _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
-Acheievements:
+Achievements:
 * _Completed with Distinction (final exam mark of 81%) - overall average of 79%_
 
 Quantitative Finance:
