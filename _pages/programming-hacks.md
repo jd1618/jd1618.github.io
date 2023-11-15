@@ -1,10 +1,8 @@
 ---
-permalink: /non-menu-page/
+layout: archive
 title: "Programming Hacks"
-excerpt: "programming-hacks"
+permalink: /programming-hacks/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
+
 
