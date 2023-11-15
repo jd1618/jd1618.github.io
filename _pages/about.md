@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Credit Risk Consultant at True North Partners LLP | MSc in Applied Mathematics (Distinction) | PhD in Mathematical Physics | CQF Alumnus (Distinction)
+_Credit Risk Consultant at True North Partners LLP_ | _MSc in Applied Mathematics (Distinction)_ | _PhD in Mathematical Physics_ | _CQF Alumnus (Distinction)_
 
 I have a strong passion for mathematics and programming, with a keen interest in advancing my knowledge and expertise in the application of machine learning and analytical methodologies to the field of credit risk.
 
@@ -22,7 +22,7 @@ IFRS 9 Model Development:
 * _Regression analysis of macroeconomic variables and macro scalar calculations_
   
 Balance Sheet Management:
-* _B/S: asset, liabilities and equity forecasting_
+* _B/S: assets, liabilities and equity forecasting_
 * _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
   
 ICAAP Model Development:
@@ -31,7 +31,7 @@ ICAAP Model Development:
   
 Python Projects:
 * _Data analysis, visualisation and data quality assessments using Excel and Python_
-* _Utilise OOP principles, perform unit tests and document/debug code_
+* _Implement OOP principles, perform unit tests and document/debug code_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
@@ -63,8 +63,10 @@ Investments:
 Achievements: 
 * _Completed with First Class Honours - final year dissertation awarded 79%_
 
-Final Year:
-* _My studies included: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
+Studies:
+* _First year: probability, statistics, multivariable calculus, linear algebra, real analysis, elementary group/number theory and applied mathematics_
+* _Second year: real/complex analysis, Markov chains, classical mechanics, elementary quantum mechanics, Fourier analysis, vector calculus and PDEs_
+* _Third year: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
 
 ### MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
@@ -81,7 +83,7 @@ Contributions:
 * _Was a graduate teaching assistant across all year groups, including the final year modules in 'Numerical solution of ordinary differential equations' and 'classical dynamics'_
 
 Development:
-* _Obtained strong programming skills in languages such as MATLAB and Fortran_
+* _Obtained strong programming skills in MATLAB and Fortran_
 
 ### _Certificate in Quantitative Finance (CQF), Fitch Learning, 2022-2023_:
 
@@ -95,4 +97,4 @@ Quantitative Finance:
 Machine Learning:
 * _Supervised learning: K-nearest neighbours, support vector machines, naive Bayes classifiers, decision trees, regression methods_
 * _Unsupervised learning: K-means clustering, self-organising maps and neural networks_
-* _Reinforcement learning and quantum computing_ 
+* _Advanced topics: reinforcement learning and quantum computing_ 
