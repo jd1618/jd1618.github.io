@@ -18,8 +18,8 @@ I have a strong passion for mathematics and programming, with a keen interest in
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
 IFRS 9 Model Development:
-* _PD/ODR forecasting and monitoring signature/emergence curves_
-* _Macroeconomic variable selection and macro scalar calculations_
+* _PD/ODR forecasting; evaluating and monitoring signature/emergence curves_
+* _Regression analysis of macroeconomic variables and macro scalar calculations_
   
 Balance Sheet Management:
 * _B/S: asset, liabilities and equity forecasting_
@@ -30,8 +30,8 @@ ICAAP Model Development:
 * _Reverse stress testing and model valuation_
   
 Python Projects:
-* _Data analysis, visualisation and data quality checks_
-* _OOP, debugging and unit testing_
+* _Data analysis, visualisation and data quality assessments using Excel and Python_
+* _Utilise OOP principles, perform unit tests and document/debug code_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
@@ -90,8 +90,9 @@ Achievements:
 
 Quantitative Finance:
 * _Mathematics: stochastic calculus, martingales, solution techniques to PDEs and numerical linear algebra_
-* _Financial engineering: portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage and interest rate derivatives_
+* _Financial engineering: portfolio optimisation, risk management, option pricing models, Monte Carlo simulation, volatility arbitrage and fixed income derivatives_
 
 Machine Learning:
 * _Supervised learning: K-nearest neighbours, support vector machines, naive Bayes classifiers, decision trees, regression methods_
-* _Unsupervised learning: K-means clustering and neural networks_ 
+* _Unsupervised learning: K-means clustering, self-organising maps and neural networks_
+* _Reinforcement learning and quantum computing_ 
