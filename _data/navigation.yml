@@ -2,12 +2,3 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Miscellaneous Maths"
-    url: /miscellaneous-maths
-
-  - title: "Quant 101"
-    url: /quant-101/    
-
-  - title: "Programming Hacks"
-    url: /programming-hacks/
