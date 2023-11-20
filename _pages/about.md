@@ -65,8 +65,8 @@ Achievements:
 
 Studies:
 * _First year: probability, statistics, multivariable calculus, linear algebra, real analysis, elementary group/number theory and applied mathematics_
-* _Second year: real/complex analysis, Markov chains, classical mechanics, elementary quantum mechanics, Fourier analysis, vector calculus and PDEs_
-* _Third year: quantum theory, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
+* _Second year: real/complex analysis, Markov chains, classical mechanics, elementary quantum mechanics, Fourier analysis, vector calculus, phase plane analysis and PDEs_
+* _Third year: advanced quantum mechanics, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
 
 ### MSc in Applied Mathematics, Imperial College London, 2018-2019:
 
@@ -74,7 +74,7 @@ Achievements:
 * _Completed with Distinction - dissertation awarded 86%_
 
 Masters Year:
-* _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs and PDEs_
+* _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs/PDEs and function spaces_
 
 ### _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
