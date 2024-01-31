@@ -10,7 +10,7 @@ redirect_from:
 
 **Credit Risk Consultant, True North Partners LLP** | **PhD in Mathematical Physics, Imperial College London** | **CQF Alumnus (Distinction)** | **MSc in Applied Mathematics, Imperial College London (Distinction)** | **BSc in Mathematics, University of Nottingham (First Class Honours)**
 
-I have a strong passion for mathematics and programming, with a keen interest in advancing my knowledge and expertise in the application of machine learning and analytical methodologies to the field of credit risk.
+My background includes notable research contributions in fluid dynamics and mathematical physics, with several publications in prestigious academic journals and special issues. Passionate about the synergy of mathematics, programming, and finance, I employ analytical methodologies and concepts in data science and machine learning to develop models and address challenges related to credit risk.
 
 
 ## Professional Experience
@@ -18,31 +18,28 @@ I have a strong passion for mathematics and programming, with a keen interest in
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
 IFRS 9 Model Development:
-* _PD/ODR forecasting; evaluating and monitoring signature/emergence curves_
-* _Regression analysis of macroeconomic variables and macro scalar calculations_
-  
-Balance Sheet Management:
-* _B/S: assets, liabilities and equity forecasting_
-* _Projecting P&L, NPAs, provisions, RWAs and capital ratios_
-  
-ICAAP Model Development:
-* _Idiosyncratic, market and combined stress scenarios_
-* _Reverse stress testing and model valuation_
-  
-Python Projects:
-* _Data analysis, visualisation and data quality assessments using Excel and Python_
-* _Implement OOP principles, perform unit tests and document/debug code_
+• _Validating SARIMAX and regression models, reproducing coefficients, p-values and statistical test results_
+• _Developing macroeconomic models and evaluating stability using k-fold, dominance and sensitivity analysis_
+• _Exploring account data to assess/re-calibrate PD models and signature curve methodology to derive risk grades_
+• _Producing modular and documented Python code for data analysis, making use of OOP principles, data structures and unit tests_
+• _B/S management, involving the forecast of: assets, liabilities, equity, P&L, NPAs, RWAs, provisions and capital ratios_
+• _ICAAP development, accounting for idiosyncratic, market and combined stress scenarios with reverse stress testing_
+• _Working with credit rating transition matrices and deriving exponential relationships for rates of default_
+• _Writing documentation that details the mathematics and methodology employed during the project life cycle_
+* _Carrying out research for asset and liability product offerings in the banking industry, including gap analysis_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 Contributions:
-* _Published in a special issue of the journal of Physics of Fluids_
-* _Submitted a paper to the Special Issue Physica D: Nonlinear Phenomena_
+* _Published in the special issue 'Physica D: Nonlinear Phenomena in Fluid Dynamics' in the Elsevier journal_
+* _Published in the special issue 'Coherent Vortices' in the journal of Physics of Fluids_
 
 Reasearch Summary:
-* _Characterised the instability of quasi-geostrophic eastward dipole steady states by a critical Davies mode_
+* _Characterised the instability of quasi-geostrophic eastward dipole steady states by a critical Davies mode using high-resolution numerical simulations_
 * _Verified the linear instability of eastward dipoles by obtaining solutions to the complete eigenproblem_
+* _Investigated the influence of tilting on the dipole instability, including scenarios of steady state adjustment_
 * _Formulated the nonlinear destruction mechanism and associated energetics of eastward dipoles_
+* _Briefly explored the dynamics of dipole-rider vortices and how they compared with the unstable dipole counterpart_
 
 ### Actuary Intern, First Actuarial, June-July 2022:
 
