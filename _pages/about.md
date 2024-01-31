@@ -18,15 +18,13 @@ My background includes notable research contributions in fluid dynamics and math
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
 Project experience:
-* _Validating SARIMAX and regression models, reproducing coefficients, p-values and statistical test results_
-* _Developing macroeconomic models and evaluating stability using k-fold, dominance and sensitivity analysis_
-* _Exploring account data to assess/re-calibrate PD models and signature curve methodology to derive risk grades_
-* _Producing modular and documented Python code for data analysis, making use of OOP principles, data structures and unit tests_
-* _B/S management, involving the forecast of: assets, liabilities, equity, P&L, NPAs, RWAs, provisions and capital ratios_
-* _ICAAP development, accounting for idiosyncratic, market and combined stress scenarios with reverse stress testing_
-* _Working with credit rating transition matrices and deriving exponential relationships for rates of default_
+* _Validating credit risk models, including IFRS 9, market risk and pricing models_
+* _Collecting and presenting market research, assessing competition and product offerings in the banking industry_
+* _Validating macroeconomic SARIMAX and regression models by assessing stability and other statistical properties_
+* _Exploring account data to assess/re-calibrate signature curve methodology to derive risk grades_
+* _Producing modular Python code for data analysis, making use of OOP principles, data structures and unit tests_
 * _Writing documentation that details the mathematics and methodology employed during the project life cycle_
-* _Carrying out research for asset and liability product offerings in the banking industry, including gap analysis_
+* _Balance sheet management, forecasting and ICAAP development_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
