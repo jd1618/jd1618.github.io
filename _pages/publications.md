@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* _Davies, J., I. Shevchenko, P. Berloff, G. Sutyrin, 2023, Linear instability and weakly nonlinear effects in eastward dipoles [(under review with the Special Issue Physica D: Nonlinear Phenomena in Fluid Dynamics)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2023_3_under_review.pdf)_.
+* _Davies, J., I. Shevchenko, P. Berloff, G. Sutyrin, 2023, Linear instability and weakly nonlinear effects in eastward dipoles [(in press Special Issue Physica D: Nonlinear Phenomena in Fluid Dynamics)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2023_3_under_review.pdf)_.
 
 * _Davies, J., G. G. Sutyrin, M. N. Crowe, and P. S. Berloff, 2023, Deformation and destruction of north-eastward drifting dipoles, Phys. Fluids, Phys. Fluids, 35, 116601 [(Special Collection: Coherent Vortical Structures in Fluids and Plasmas)](https://github.com/jd1618/jd1618.github.io/blob/master/files/Davies_et_al_2023_2.pdf)_.
 
