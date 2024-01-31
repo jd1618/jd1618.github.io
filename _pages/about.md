@@ -18,14 +18,14 @@ My background includes notable research contributions in fluid dynamics and math
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
 IFRS 9 Model Development:
-• _Validating SARIMAX and regression models, reproducing coefficients, p-values and statistical test results_
-• _Developing macroeconomic models and evaluating stability using k-fold, dominance and sensitivity analysis_
-• _Exploring account data to assess/re-calibrate PD models and signature curve methodology to derive risk grades_
-• _Producing modular and documented Python code for data analysis, making use of OOP principles, data structures and unit tests_
-• _B/S management, involving the forecast of: assets, liabilities, equity, P&L, NPAs, RWAs, provisions and capital ratios_
-• _ICAAP development, accounting for idiosyncratic, market and combined stress scenarios with reverse stress testing_
-• _Working with credit rating transition matrices and deriving exponential relationships for rates of default_
-• _Writing documentation that details the mathematics and methodology employed during the project life cycle_
+* _Validating SARIMAX and regression models, reproducing coefficients, p-values and statistical test results_
+* _Developing macroeconomic models and evaluating stability using k-fold, dominance and sensitivity analysis_
+* _Exploring account data to assess/re-calibrate PD models and signature curve methodology to derive risk grades_
+* _Producing modular and documented Python code for data analysis, making use of OOP principles, data structures and unit tests_
+* _B/S management, involving the forecast of: assets, liabilities, equity, P&L, NPAs, RWAs, provisions and capital ratios_
+* _ICAAP development, accounting for idiosyncratic, market and combined stress scenarios with reverse stress testing_
+* _Working with credit rating transition matrices and deriving exponential relationships for rates of default_
+* _Writing documentation that details the mathematics and methodology employed during the project life cycle_
 * _Carrying out research for asset and liability product offerings in the banking industry, including gap analysis_
 
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
