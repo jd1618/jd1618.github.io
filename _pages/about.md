@@ -31,8 +31,8 @@ IFRS 9 Model Development:
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 Contributions:
-* _Published in the special issue 'Physica D: Nonlinear Phenomena in Fluid Dynamics' in the Elsevier journal_
-* _Published in the special issue 'Coherent Vortices' in the journal of Physics of Fluids_
+* _Published in the special issue 'Physica D: Nonlinear Phenomena in Fluid Dynamics' in the journal 'Elsevier'_
+* _Published in the special issue 'Coherent Vortices' in the journal of 'Physics of Fluids'_
 
 Reasearch Summary:
 * _Characterised the instability of quasi-geostrophic eastward dipole steady states by a critical Davies mode using high-resolution numerical simulations_
@@ -55,28 +55,10 @@ Investments:
 
 ## Education
 
-### BSc in Mathematics, The University of Nottingham, 2015-2018:
-
-Achievements: 
-* _Completed with First Class Honours - final year dissertation awarded 79%_
-
-Studies:
-* _First year: probability, statistics, multivariable calculus, linear algebra, real analysis, elementary group/number theory and applied mathematics_
-* _Second year: real/complex analysis, Markov chains, classical mechanics, elementary quantum mechanics, Fourier analysis, vector calculus, phase plane analysis and PDEs_
-* _Third year: advanced quantum mechanics, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
-
-### MSc in Applied Mathematics, Imperial College London, 2018-2019:
-
-Achievements:
-* _Completed with Distinction - dissertation awarded 86%_
-
-Masters Year:
-* _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs/PDEs and function spaces_
-
 ### _PhD in Mathematical Physics, Imperial College London, 2019-2023_:
 
 Contributions:
-* _Published in prestigious academic journals, including the Journal of Fluid Mechanics and Physics of Fluids_
+* _Published in prestigious academic journals, including the 'Journal of Fluid Mechanics' and 'Physics of Fluids'_
 * _Was a graduate teaching assistant across all year groups, including the final year modules in 'Numerical solution of ordinary differential equations' and 'classical dynamics'_
 
 Development:
@@ -95,3 +77,21 @@ Machine Learning:
 * _Supervised learning: K-nearest neighbours, support vector machines, naive Bayes classifiers, decision trees, regression methods_
 * _Unsupervised learning: K-means clustering, self-organising maps and neural networks_
 * _Advanced topics: reinforcement learning and quantum computing_ 
+
+### MSc in Applied Mathematics, Imperial College London, 2018-2019:
+
+Achievements:
+* _Completed with Distinction - dissertation awarded 86%_
+
+Masters Year:
+* _My studies included: asymptotic analysis, PDE theory, inviscid fluid dynamics, geophysical fluid dynamics, vortex dynamics, hydrodynamic instability, numerical methods for ODEs/PDEs and function spaces_
+
+### BSc in Mathematics, The University of Nottingham, 2015-2018:
+
+Achievements: 
+* _Completed with First Class Honours - final year dissertation awarded 79%_
+
+Studies:
+* _First year: probability, statistics, multivariable calculus, linear algebra, real analysis, elementary group/number theory and applied mathematics_
+* _Second year: real/complex analysis, Markov chains, classical mechanics, elementary quantum mechanics, Fourier analysis, vector calculus, phase plane analysis and PDEs_
+* _Third year: advanced quantum mechanics, general relativity, mathematical biology, viscous fluid dynamics, perturbation methods and bifurcation theory_
