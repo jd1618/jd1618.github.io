@@ -17,7 +17,7 @@ My background includes notable research contributions in fluid dynamics and math
 
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
-IFRS 9 Model Development:
+Project experience:
 * _Validating SARIMAX and regression models, reproducing coefficients, p-values and statistical test results_
 * _Developing macroeconomic models and evaluating stability using k-fold, dominance and sensitivity analysis_
 * _Exploring account data to assess/re-calibrate PD models and signature curve methodology to derive risk grades_
