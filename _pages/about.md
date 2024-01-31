@@ -18,7 +18,7 @@ My background includes notable research contributions in fluid dynamics and math
 ### Credit Risk Consultant, TNP, September 2023-Present:
 
 Project experience:
-* _Validating credit risk models, including IFRS 9, market risk and pricing models_
+* _Validating credit risk models, including IFRS 9, market risk, pricing and scorecards_
 * _Collecting and presenting market research, assessing competition and product offerings in the banking industry_
 * _Validating macroeconomic SARIMAX and regression models by assessing stability and other statistical properties_
 * _Exploring account data to assess and re-calibrate signature curve methodology to derive risk grades_
