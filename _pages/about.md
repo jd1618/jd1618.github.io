@@ -29,7 +29,7 @@ Project experience:
 ### Postdoctoral Researcher, Imperial College London, July-August 2023:
 
 Contributions:
-* _Published in the special issue 'Physica D: Nonlinear Phenomena in Fluid Dynamics' in the journal 'Elsevier'_
+* _Published in the special issue 'Nonlinear Phenomena in Fluid Dynamics' in the journal 'Physica D'_
 * _Published in the special issue 'Coherent Vortices' in the journal of 'Physics of Fluids'_
 
 Reasearch Summary:
