@@ -10,7 +10,7 @@ redirect_from:
 
 **Credit Risk Consultant, True North Partners LLP** | **PhD in Mathematical Physics, Imperial College London** | **CQF Alumnus (Distinction)** | **MSc in Applied Mathematics, Imperial College London (Distinction)** | **BSc in Mathematics, University of Nottingham (First Class Honours)**
 
-My background includes notable research contributions in fluid dynamics and mathematical physics, with several publications in prestigious academic journals and special issues. Passionate about the synergy of mathematics, programming, and finance, I employ analytical methodologies and concepts in data science and machine learning to develop models and address challenges related to credit risk.
+My background includes notable research contributions in fluid dynamics and mathematical physics, with several publications in prestigious academic journals and special issues. Passionate about the synergy of mathematics, programming, and finance, I employ analytical methodologies and concepts in statistics and machine learning to develop/validate models and address challenges related to credit and market risk.
 
 
 ## Professional Experience
